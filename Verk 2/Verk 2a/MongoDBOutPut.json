@@ -1,0 +1,892 @@
+[{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc68"
+  },
+  "municNum": 1000,
+  "municName": "Kópavogsbær",
+  "municPop18": "36,910",
+  "municPop19": "37,936",
+  "municPop20": "38,067",
+  "municIncPop": 131,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc69"
+  },
+  "municNum": "Höfuðborgarsvæðið",
+  "municName": "",
+  "municPop18": "227,962",
+  "municPop19": "233,027",
+  "municPop20": "233,656",
+  "municIncPop": 629,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6a"
+  },
+  "municNum": 1100,
+  "municName": "Seltjarnarnesbær",
+  "municPop18": "4,659",
+  "municPop19": "4,719",
+  "municPop20": "4,703",
+  "municIncPop": -16,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6b"
+  },
+  "municNum": 1300,
+  "municName": "Garðabær",
+  "municPop18": "16,279",
+  "municPop19": "16,924",
+  "municPop20": "16,978",
+  "municIncPop": 54,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6c"
+  },
+  "municNum": 1400,
+  "municName": "Hafnarfjarðarkaupstaður",
+  "municPop18": "29,787",
+  "municPop19": "29,986",
+  "municPop20": "29,971",
+  "municIncPop": -15,
+  "municIncPopPerc": "-0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6d"
+  },
+  "municNum": 1604,
+  "municName": "Mosfellsbær",
+  "municPop18": "11,407",
+  "municPop19": "12,069",
+  "municPop20": "12,105",
+  "municIncPop": 36,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6e"
+  },
+  "municNum": 1606,
+  "municName": "Kjósarhreppur",
+  "municPop18": 239,
+  "municPop19": 247,
+  "municPop20": 244,
+  "municIncPop": -3,
+  "municIncPopPerc": "-1.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc6f"
+  },
+  "municNum": "Suðurnes",
+  "municName": "",
+  "municPop18": "27,049",
+  "municPop19": "27,825",
+  "municPop20": "27,937",
+  "municIncPop": 112,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc70"
+  },
+  "municNum": "0000",
+  "municName": "Reykjavíkurborg",
+  "municPop18": "128,681",
+  "municPop19": "131,146",
+  "municPop20": "131,588",
+  "municIncPop": 442,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc71"
+  },
+  "municNum": 2000,
+  "municName": "Reykjanesbær",
+  "municPop18": "18,882",
+  "municPop19": "19,423",
+  "municPop20": "19,492",
+  "municIncPop": 69,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc72"
+  },
+  "municNum": 2300,
+  "municName": "Grindavíkurbær",
+  "municPop18": "3,397",
+  "municPop19": "3,508",
+  "municPop20": "3,516",
+  "municIncPop": 8,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc73"
+  },
+  "municNum": "Vesturland",
+  "municName": "",
+  "municPop18": "16,547",
+  "municPop19": "16,666",
+  "municPop20": "16,674",
+  "municIncPop": 8,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc74"
+  },
+  "municNum": 3000,
+  "municName": "Akraneskaupstaður",
+  "municPop18": "7,421",
+  "municPop19": "7,533",
+  "municPop20": "7,527",
+  "municIncPop": -6,
+  "municIncPopPerc": "-0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc75"
+  },
+  "municNum": 2506,
+  "municName": "Sveitarfélagið Vogar",
+  "municPop18": "1,288",
+  "municPop19": "1,308",
+  "municPop20": "1,322",
+  "municIncPop": 14,
+  "municIncPopPerc": "1.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc76"
+  },
+  "municNum": 3506,
+  "municName": "Skorradalshreppur",
+  "municPop18": 58,
+  "municPop19": 65,
+  "municPop20": 67,
+  "municIncPop": 2,
+  "municIncPopPerc": "3.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc77"
+  },
+  "municNum": 3511,
+  "municName": "Hvalfjarðarsveit",
+  "municPop18": 650,
+  "municPop19": 625,
+  "municPop20": 618,
+  "municIncPop": -7,
+  "municIncPopPerc": "-1.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc78"
+  },
+  "municNum": 3609,
+  "municName": "Borgarbyggð",
+  "municPop18": "3,816",
+  "municPop19": "3,855",
+  "municPop20": "3,867",
+  "municIncPop": 12,
+  "municIncPopPerc": "0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc79"
+  },
+  "municNum": 2510,
+  "municName": "Suðurnesjabær",
+  "municPop18": "3,482",
+  "municPop19": "3,586",
+  "municPop20": "3,607",
+  "municIncPop": 21,
+  "municIncPopPerc": "0.6%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7a"
+  },
+  "municNum": 3710,
+  "municName": "Helgafellssveit",
+  "municPop18": 63,
+  "municPop19": 65,
+  "municPop20": 64,
+  "municIncPop": -1,
+  "municIncPopPerc": "-1.5%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7b"
+  },
+  "municNum": 3709,
+  "municName": "Grundarfjarðarbær",
+  "municPop18": 876,
+  "municPop19": 877,
+  "municPop20": 871,
+  "municIncPop": -6,
+  "municIncPopPerc": "-0.7%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7c"
+  },
+  "municNum": 3711,
+  "municName": "Stykkishólmsbær",
+  "municPop18": "1,196",
+  "municPop19": "1,211",
+  "municPop20": "1,212",
+  "municIncPop": 1,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7d"
+  },
+  "municNum": 3713,
+  "municName": "Eyja- og Miklaholtshreppur",
+  "municPop18": 117,
+  "municPop19": 124,
+  "municPop20": 126,
+  "municIncPop": 2,
+  "municIncPopPerc": "1.6%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7e"
+  },
+  "municNum": 3714,
+  "municName": "Snæfellsbær",
+  "municPop18": "1,680",
+  "municPop19": "1,677",
+  "municPop20": "1,689",
+  "municIncPop": 12,
+  "municIncPopPerc": "0.7%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc7f"
+  },
+  "municNum": 4100,
+  "municName": "Bolungarvíkurkaupstaður",
+  "municPop18": 946,
+  "municPop19": 959,
+  "municPop20": 961,
+  "municIncPop": 2,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc80"
+  },
+  "municNum": "Vestfirðir",
+  "municName": "",
+  "municPop18": "7,064",
+  "municPop19": "7,118",
+  "municPop20": "7,126",
+  "municIncPop": 8,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc81"
+  },
+  "municNum": 4200,
+  "municName": "Ísafjarðarbær",
+  "municPop18": "3,813",
+  "municPop19": "3,810",
+  "municPop20": "3,827",
+  "municIncPop": 17,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc82"
+  },
+  "municNum": 3811,
+  "municName": "Dalabyggð",
+  "municPop18": 670,
+  "municPop19": 634,
+  "municPop20": 633,
+  "municIncPop": -1,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc83"
+  },
+  "municNum": 4502,
+  "municName": "Reykhólahreppur",
+  "municPop18": 257,
+  "municPop19": 262,
+  "municPop20": 262,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc84"
+  },
+  "municNum": 4607,
+  "municName": "Vesturbyggð",
+  "municPop18": 996,
+  "municPop19": "1,020",
+  "municPop20": "1,021",
+  "municIncPop": 1,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc85"
+  },
+  "municNum": 4604,
+  "municName": "Tálknafjarðarhreppur",
+  "municPop18": 259,
+  "municPop19": 252,
+  "municPop20": 247,
+  "municIncPop": -5,
+  "municIncPopPerc": "-2.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc86"
+  },
+  "municNum": 4803,
+  "municName": "Súðavíkurhreppur",
+  "municPop18": 199,
+  "municPop19": 209,
+  "municPop20": 203,
+  "municIncPop": -6,
+  "municIncPopPerc": "-2.9%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc87"
+  },
+  "municNum": 4901,
+  "municName": "Árneshreppur",
+  "municPop18": 40,
+  "municPop19": 43,
+  "municPop20": 43,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc88"
+  },
+  "municNum": 4902,
+  "municName": "Kaldrananeshreppur",
+  "municPop18": 103,
+  "municPop19": 109,
+  "municPop20": 106,
+  "municIncPop": -3,
+  "municIncPopPerc": "-2.8%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc89"
+  },
+  "municNum": "Norðurland vestra",
+  "municName": "",
+  "municPop18": "7,227",
+  "municPop19": "7,327",
+  "municPop20": "7,307",
+  "municIncPop": -20,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8a"
+  },
+  "municNum": 4911,
+  "municName": "Strandabyggð",
+  "municPop18": 451,
+  "municPop19": 454,
+  "municPop20": 456,
+  "municIncPop": 2,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8b"
+  },
+  "municNum": 5200,
+  "municName": "Sveitarfélagið Skagafjörður",
+  "municPop18": "3,990",
+  "municPop19": "4,037",
+  "municPop20": "4,026",
+  "municIncPop": -11,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8c"
+  },
+  "municNum": 5508,
+  "municName": "Húnaþing vestra",
+  "municPop18": "1,181",
+  "municPop19": "1,210",
+  "municPop20": "1,208",
+  "municIncPop": -2,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8d"
+  },
+  "municNum": 5609,
+  "municName": "Sveitarfélagið Skagaströnd",
+  "municPop18": 459,
+  "municPop19": 473,
+  "municPop20": 474,
+  "municIncPop": 1,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8e"
+  },
+  "municNum": 5604,
+  "municName": "Blönduósbær",
+  "municPop18": 935,
+  "municPop19": 942,
+  "municPop20": 932,
+  "municIncPop": -10,
+  "municIncPopPerc": "-1.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc8f"
+  },
+  "municNum": 5611,
+  "municName": "Skagabyggð",
+  "municPop18": 88,
+  "municPop19": 90,
+  "municPop20": 90,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc90"
+  },
+  "municNum": 5706,
+  "municName": "Akrahreppur",
+  "municPop18": 200,
+  "municPop19": 205,
+  "municPop20": 204,
+  "municIncPop": -1,
+  "municIncPopPerc": "-0.5%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc91"
+  },
+  "municNum": "Norðurland eystra",
+  "municName": "",
+  "municPop18": "30,441",
+  "municPop19": "30,596",
+  "municPop20": "30,570",
+  "municIncPop": -26,
+  "municIncPopPerc": "-0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc92"
+  },
+  "municNum": 6000,
+  "municName": "Akureyrarbær",
+  "municPop18": "18,900",
+  "municPop19": "19,024",
+  "municPop20": "19,009",
+  "municIncPop": -15,
+  "municIncPopPerc": "-0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc93"
+  },
+  "municNum": 5612,
+  "municName": "Húnavatnshreppur",
+  "municPop18": 374,
+  "municPop19": 370,
+  "municPop20": 373,
+  "municIncPop": 3,
+  "municIncPopPerc": "0.8%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc94"
+  },
+  "municNum": 6100,
+  "municName": "Norðurþing",
+  "municPop18": "3,050",
+  "municPop19": "3,111",
+  "municPop20": "3,122",
+  "municIncPop": 11,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc95"
+  },
+  "municNum": 6515,
+  "municName": "Hörgársveit",
+  "municPop18": 613,
+  "municPop19": 621,
+  "municPop20": 624,
+  "municIncPop": 3,
+  "municIncPopPerc": "0.5%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc96"
+  },
+  "municNum": 6400,
+  "municName": "Dalvíkurbyggð",
+  "municPop18": "1,908",
+  "municPop19": "1,902",
+  "municPop20": "1,898",
+  "municIncPop": -4,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc97"
+  },
+  "municNum": 6602,
+  "municName": "Grýtubakkahreppur",
+  "municPop18": 371,
+  "municPop19": 370,
+  "municPop20": 376,
+  "municIncPop": 6,
+  "municIncPopPerc": "1.6%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc98"
+  },
+  "municNum": 6601,
+  "municName": "Svalbarðsstrandarhreppur",
+  "municPop18": 489,
+  "municPop19": 482,
+  "municPop20": 481,
+  "municIncPop": -1,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc99"
+  },
+  "municNum": 6607,
+  "municName": "Skútustaðahreppur",
+  "municPop18": 509,
+  "municPop19": 507,
+  "municPop20": 490,
+  "municIncPop": -17,
+  "municIncPopPerc": "-3.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9a"
+  },
+  "municNum": 6611,
+  "municName": "Tjörneshreppur",
+  "municPop18": 55,
+  "municPop19": 54,
+  "municPop20": 54,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9b"
+  },
+  "municNum": 6612,
+  "municName": "Þingeyjarsveit",
+  "municPop18": 903,
+  "municPop19": 864,
+  "municPop20": 859,
+  "municIncPop": -5,
+  "municIncPopPerc": "-0.6%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9c"
+  },
+  "municNum": 6513,
+  "municName": "Eyjafjarðarsveit",
+  "municPop18": "1,041",
+  "municPop19": "1,079",
+  "municPop20": "1,077",
+  "municIncPop": -2,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9d"
+  },
+  "municNum": 6706,
+  "municName": "Svalbarðshreppur",
+  "municPop18": 89,
+  "municPop19": 93,
+  "municPop20": 93,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9e"
+  },
+  "municNum": 6709,
+  "municName": "Langanesbyggð",
+  "municPop18": 509,
+  "municPop19": 482,
+  "municPop20": 476,
+  "municIncPop": -6,
+  "municIncPopPerc": "-1.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bc9f"
+  },
+  "municNum": 6250,
+  "municName": "Fjallabyggð",
+  "municPop18": "2,004",
+  "municPop19": "2,007",
+  "municPop20": "2,011",
+  "municIncPop": 4,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca0"
+  },
+  "municNum": "Austurland",
+  "municName": "",
+  "municPop18": "10,691",
+  "municPop19": "10,740",
+  "municPop20": "10,741",
+  "municIncPop": 1,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca1"
+  },
+  "municNum": 7502,
+  "municName": "Vopnafjarðarhreppur",
+  "municPop18": 657,
+  "municPop19": 656,
+  "municPop20": 661,
+  "municIncPop": 5,
+  "municIncPopPerc": "0.8%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca2"
+  },
+  "municNum": 7505,
+  "municName": "Fljótsdalshreppur",
+  "municPop18": 73,
+  "municPop19": 86,
+  "municPop20": 86,
+  "municIncPop": 0,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca3"
+  },
+  "municNum": 7000,
+  "municName": "Seyðisfjarðarkaupstaður",
+  "municPop18": 692,
+  "municPop19": 682,
+  "municPop20": 680,
+  "municIncPop": -2,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca4"
+  },
+  "municNum": 7509,
+  "municName": "Borgarfjarðarhreppur",
+  "municPop18": 109,
+  "municPop19": 122,
+  "municPop20": 121,
+  "municIncPop": -1,
+  "municIncPopPerc": "-0.8%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca5"
+  },
+  "municNum": 7617,
+  "municName": "Djúpavogshreppur",
+  "municPop18": 474,
+  "municPop19": 501,
+  "municPop20": 503,
+  "municIncPop": 2,
+  "municIncPopPerc": "0.4%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca6"
+  },
+  "municNum": 7620,
+  "municName": "Fljótsdalshérað",
+  "municPop18": "3,605",
+  "municPop19": "3,620",
+  "municPop20": "3,610",
+  "municIncPop": -10,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca7"
+  },
+  "municNum": "Suðurland",
+  "municName": "",
+  "municPop18": "29,690",
+  "municPop19": "30,829",
+  "municPop20": "30,878",
+  "municIncPop": 49,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca8"
+  },
+  "municNum": 7300,
+  "municName": "Fjarðabyggð",
+  "municPop18": "5,081",
+  "municPop19": "5,073",
+  "municPop20": "5,080",
+  "municIncPop": 7,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bca9"
+  },
+  "municNum": 8200,
+  "municName": "Sveitarfélagið Árborg",
+  "municPop18": "9,447",
+  "municPop19": "10,055",
+  "municPop20": "10,071",
+  "municIncPop": 16,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcaa"
+  },
+  "municNum": 8508,
+  "municName": "Mýrdalshreppur",
+  "municPop18": 694,
+  "municPop19": 717,
+  "municPop20": 718,
+  "municIncPop": 1,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcab"
+  },
+  "municNum": 8000,
+  "municName": "Vestmannaeyjabær",
+  "municPop18": "4,304",
+  "municPop19": "4,358",
+  "municPop20": "4,361",
+  "municIncPop": 3,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcac"
+  },
+  "municNum": 8509,
+  "municName": "Skaftárhreppur",
+  "municPop18": 585,
+  "municPop19": 626,
+  "municPop20": 624,
+  "municIncPop": -2,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcad"
+  },
+  "municNum": 8610,
+  "municName": "Ásahreppur",
+  "municPop18": 249,
+  "municPop19": 251,
+  "municPop20": 259,
+  "municIncPop": 8,
+  "municIncPopPerc": "3.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcae"
+  },
+  "municNum": 8613,
+  "municName": "Rangárþing eystra",
+  "municPop18": "1,920",
+  "municPop19": "1,960",
+  "municPop20": "1,956",
+  "municIncPop": -4,
+  "municIncPopPerc": "-0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcaf"
+  },
+  "municNum": 8614,
+  "municName": "Rangárþing ytra",
+  "municPop18": "1,630",
+  "municPop19": "1,684",
+  "municPop20": "1,687",
+  "municIncPop": 3,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb0"
+  },
+  "municNum": 8710,
+  "municName": "Hrunamannahreppur",
+  "municPop18": 791,
+  "municPop19": 817,
+  "municPop20": 818,
+  "municIncPop": 1,
+  "municIncPopPerc": "0.1%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb1"
+  },
+  "municNum": 7708,
+  "municName": "Sveitarfélagið Hornafjörður",
+  "municPop18": "2,381",
+  "municPop19": "2,435",
+  "municPop20": "2,434",
+  "municIncPop": -1,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb2"
+  },
+  "municNum": 8720,
+  "municName": "Skeiða- og Gnúpverjahreppur",
+  "municPop18": 639,
+  "municPop19": 611,
+  "municPop20": 609,
+  "municIncPop": -2,
+  "municIncPopPerc": "-0.3%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb3"
+  },
+  "municNum": 8716,
+  "municName": "Hveragerðisbær",
+  "municPop18": "2,625",
+  "municPop19": "2,697",
+  "municPop20": "2,718",
+  "municIncPop": 21,
+  "municIncPopPerc": "0.8%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb4"
+  },
+  "municNum": 8717,
+  "municName": "Sveitarfélagið Ölfus",
+  "municPop18": "2,157",
+  "municPop19": "2,273",
+  "municPop20": "2,272",
+  "municIncPop": -1,
+  "municIncPopPerc": "0.0%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb5"
+  },
+  "municNum": 8722,
+  "municName": "Flóahreppur",
+  "municPop18": 664,
+  "municPop19": 689,
+  "municPop20": 685,
+  "municIncPop": -4,
+  "municIncPopPerc": "-0.6%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb6"
+  },
+  "municNum": "Samtals",
+  "municName": "",
+  "municPop18": "356,671",
+  "municPop19": "364,128",
+  "municPop20": "364,889",
+  "municIncPop": 761,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb7"
+  },
+  "municNum": 8721,
+  "municName": "Bláskógabyggð",
+  "municPop18": "1,115",
+  "municPop19": "1,162",
+  "municPop20": "1,164",
+  "municIncPop": 2,
+  "municIncPopPerc": "0.2%"
+},{
+  "_id": {
+    "$oid": "5e6b5115cda54c796736bcb8"
+  },
+  "municNum": 8719,
+  "municName": "Grímsnes- og Grafningshreppur",
+  "municPop18": 489,
+  "municPop19": 494,
+  "municPop20": 502,
+  "municIncPop": 8,
+  "municIncPopPerc": "1.6%"
+}]

@@ -1,0 +1,43 @@
+[
+    {
+        "Svæði": "Salur",
+        "Raðir": [
+            {
+                "Raðar_númer": 1,
+                "Sæti": [
+                    {
+                        "Sætis_númer": 1,
+                        "ErHjolastola": "False",
+                        "ErSoundMixerFratekid": "False",
+                        "ErSviðaExtention": "False"
+                    },
+                    {
+                        "Sætis_númer": 2,
+                        "ErHjolastola": "False",
+                        "ErSoundMixerFratekid": "False",
+                        "ErSviðaExtention": "False"
+                    }
+                ]
+            }
+        ],
+        "Hliðar_raðir": [
+            {
+                "Raðar_stafur": "C1",
+                "Sæti": [
+                    {
+                        "Sætis_númer": 1,
+                        "ErHjolastola": "False",
+                        "ErSoundMixerFratekid": "False",
+                        "ErSviðaExtention": "False"
+                    },
+                    {
+                        "Sætis_númer": 2,
+                        "ErHjolastola": "False",
+                        "ErSoundMixerFratekid": "False",
+                        "ErSviðaExtention": "False"
+                    }
+                ]
+            }
+        ]
+    }
+]
