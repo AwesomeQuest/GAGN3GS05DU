@@ -1,0 +1,5 @@
+x = floor(runif(100, min=1, max=100000))
+min(x)
+max(x)
+mean(x)
+length(x)
