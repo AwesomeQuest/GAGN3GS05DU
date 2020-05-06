@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <script src="courses.js"></script>
+  <script>
+  console.log(json);
+  
+  let avg = 0;
+  
+  json.forEach((j, index) => {
+    avg += j.credits;
+    
+  });
+
+  avg = avg / json.length;
+
+  console.log(avg);
+  
+  </script>
+  
+</body>
+</html>
