@@ -31,3 +31,6 @@ Handavinna.
 
 ### Liður 2
 Þessi var ekkert pínu. Tók marga tíma til að finna út úr þessum. Því miður var data-ið mitt ekki með recoveries.
+
+## Skilaverkefni 5 
+Skemtilegt concept, sérstaklega vergna þess að þessi áfangi var svo abstract.
